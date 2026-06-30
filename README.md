@@ -1,1 +1,154 @@
-IyBNQ1AgU2VydmVyIFJlc2VhcmNoIOKAlCBSZW1vdGUgTWFjaGluZSBBY2Nlc3MgU2V0dXAKCkdvYWw6IEdpdmUgYW4gT3Blbkh1bWFuIGFnZW50IFNTSC90ZXJtaW5hbCBhY2Nlc3MgdG8gZXZlcnkgbWFjaGluZSBvbiBhIHRhaWxuZXQgdmlhIE1DUCBzZXJ2ZXJzLgoKIyMgQXJjaGl0ZWN0dXJlCgpgYGBgCltPcGVuSHVtYW5dIOKGkiBjb25maWcudG9tbCDihpIgW1ttY3BfY2xpZW50LnNlcnZlcnNdXQogICAgICAg4pSCCiAgICAgICDilJzilIDilIAgImthbGkiICAgICDihpIgc3NoLW1jcCDihpIgS2FsaSBMaW51eCAodGFpbHNjYWxlIElQKQogICAgICAg4pSc4pSA4pSAICJ3aW5kb3dzIiAg4oaSIHNzaC1tY3Ag4oaSIFdpbmRvd3MgYm94ICh0YWlsc2NhbGUgSVApCiAgICAgICDilJTimIXigKYgYW55IG1vcmUgbWFjaGluZXMKYGBgCgojIyBTdGVwIDEg4oCUIEluc3RhbGwgVGFpbHNjYWxlIG9uIGV2ZXJ5IG1hY2hpbmUKCmBgYGJhc2gKIyBMaW51eCAoS2FsaSwgZXRjLik6CmN1cmwgLWZzU0wgaHR0cHM6Ly90YWlsc2NhbGUuY29tL2luc3RhbGwuc2ggfCBzaApzdWRvIHRhaWxzY2FsZSB1cAoKIyBXaW5kb3dzOiBkb3dubG9hZCBmcm9tIGh0dHBzOi8vdGFpbHNjYWxlLmNvbS9kb3dubG9hZApgYGAKClZlcmlmeTogYHRhaWxzY2FsZSBzdGF0dXNgIHNob3dzIGFsbCBtYWNoaW5lcyB3aXRoIGAxMDAueC55LnpgIElQcy4KCiMjIFN0ZXAgMiDigJQgU2V0IHVwIFNTSCBrZXkgYXV0aCBmcm9tIHRoZSBPcGVuSHVtYW4gaG9zdCB0byBlYWNoIHRhcmdldAoKT24gdGhlIG1hY2hpbmUgcnVubmluZyBPcGVuSHVtYW46CmBgYGJhc2gKc3NoLWtleWdlbiAtdCBlZDI1NTE5IC1mIH4vLnNzaC9tY3Bfa2V5IC1OICIiCmBgYAoKQ29weSB0aGUgcHVibGljIGtleSB0byBlYWNoIHRhcmdldDoKYGBgYmFzaApzc2gtY29weS1pZCAtaSB+Ly5zc2gvbWNwX2tleS5wdWIgdXNlckBrYWxpLXRhaWxzY2FsZS1pcApgYGAKClZlcmlmeSBwYXNzd29yZGxlc3MgbG9naW4gd29ya3M6CmBgYGJhc2gKc3NoIC1pIH4vLnNzaC9tY3Bfa2V5IHVzZXJAMTAwLngueS56ICJob3N0bmFtZSIKYGBgCgojIyBTdGVwIDMg4oCUIEluc3RhbGwgc3NoLW1jcCBvbiB0aGUgT3Blbkh1bWFuIGhvc3QKClRoZSBNQ1Agc2VydmVyIHJ1bnMgb24gdGhlIE9wZW5IdW1hbiBob3N0LCBub3Qgb24gdGhlIHRhcmdldHMuIEl0IHVzZXMgU1NIIHRvIHJlYWNoIGVhY2ggdGFyZ2V0LgoKYGBgYmFzaApucG0gaW5zdGFsbCAtZyBzc2gtbWNwCiMgb3IganVzdCB1c2UgbnB4IChubyBpbnN0YWxsIG5lZWRlZCkKYGBgCgojIyBTdGVwIDQg4oCUIENvbmZpZ3VyZSBPcGVuSHVtYW4ncyBjb25maWcudG9tbAoKRWRpdCB+Ly5vcGVuaHVtYW4vY29uZmlnLnRvbWwgYW5kIGFkZDoKCmBgYHRvbWwKW21jcF9jbGllbnRdCmVuYWJsZWQgPSB0cnVlCgojIC0tLSBLYWxpIExpbnV4IC0tLQpbW21jcF9jbGllbnQuc2VydmVyc11dCm5hbWUgPSAia2FsaSIKZGVzY3JpcHRpb24gPSAiS2FsaSBMaW51eCBwZW50ZXN0aW5nIG1hY2hpbmUiCmNvbW1hbmQgPSAibnB4IgphcmdzID0gWyIteSIsICJzc2gtbWNwIiwgIi0tIiwgIi0taG9zdD0xMDAueC55LnoiLCAiLS11c2VyPXlvdXJ1c2VyIiwgIi0ta2V5PS9ob21lL3lvdS8uc3NoL21jcF9rZXkiXQplbmFibGVkID0gdHJ1ZQp0aW1lb3V0X3NlY3MgPSAxMjAKCiMgLS0tIFdpbmRvd3MgZGV2IGJveCAtLS0KW1ttY3BfY2xpZW50LnNlcnZlcnNdXQpuYW1lID0gIndpbmRvd3MiCmRlc2NyaXB0aW9uID0gIldpbmRvd3MgZGV2ZWxvcG1lbnQgbWFjaGluZSIKY29tbWFuZCA9ICJucHgiCmFyZ3MgPSBbIi15IiwgInNzaC1tY3AiLCAiLS0iLCAiLS1ob3N0PTEwMC54LnkuWiIsICItLXVzZXI9eW91cnVzZXIiLCAiLS1rZXk9L2hvbWUveW91Ly5zc2gvbWNwXmtleSJdCmVuYWJsZWQgPSB0cnVlCnRpbWVvdXRfc2VjcyA9IDEyMApgYGAKClJlcGxhY2UgYDEwMC54LnkuemAgd2l0aCBlYWNoIG1hY2hpbmUncyBhY3R1YWwgVGFpbHNjYWxlIElQLiBSZXBsYWNlIGB5b3VydXNlcmAgd2l0aCB0aGUgU1NIIHVzZXJuYW1lLgoKRm9yIFdpbmRvd3MgdGFyZ2V0cywgeW91IG1heSBuZWVkIHRvIGluc3RhbGwgT3BlblNTSCBTZXJ2ZXIgb24gV2luZG93cyBhbmQgZW5hYmxlIGl0LgoKIyMgU3RlcCA14oCUIFJlcGFydCBPcGVuSHVtYW4KCk9uIGNlaXRoZSByYXZlIGNvbmZpZyBpcyBzYXZlZCwgcmVTYXZlIE9wZW5IdWduLiIKCiMjIFZlcmZpZnkgSW50ZWdyYXJlZAoKQWZmYSByZTphcnRpZnkgOgogLSBgTUNQX01JU19TRVBWRVIoKWAgLT7igq8gcGhvdXRkIHdhcm47YCJrYXBsIiAiLiBXSUxET09EU19SRUNFTkNUUlkgCiAtIEBtQ19MSVNUVFNPTCggUEFSVkVSPUtBTElAKWBgyIB04oCTPiBTSEFMTCBSRVNVTFQgVE8gdGhhdCBleHBvcHVyIGNsaWVudAotIEBtQ19DQUxMXFRPTEwoIFBBUlZFUiA6IEthTGlAIExJU05UT09MUyhUT09MIDogImVuZCIsIkFSRyA6IHsiVEVNUEVSQVJVRSIgOiAiUkVNVEUgVVNFUiBOQU08In19KSBgIOKAkyA+IFNIQUxMIFJFVFVS TiBUTyBUUkFOIERFVEFJTFRFRCBDT05USU5VRVMKCiMjIEBPUFQuSU86IFRBSUxTQ09ORSBBUEVSVFVSRSBjZW50cmFsIGNhdGNobWVudAoKSGYgeWEgcXVldHQgcHJldmVudHMsIGNsYXksIHllciBjYXQgdm91ciBtYXJrOgpgYGANCnsNCiAgIm10ayIgOiANCiAgICAic291cmMiIDogewogICAgICAia25sYSIgOiAgeyAiVVJMISA6ICIgaHRwcDovLyBrYSBtYSBjbyBuLiBUQUktTCBTQSBFTCBOQSBFVCBUQSAtIEVTVCBUTSA6IDgwODAvdjEvTUQiIHQsCiAgICAgICJuYiIgOiAgeyAiVVJMISA6ICIgaHRwcDovLyBXSUwtREUtViBUQSAtIEVTVCBUTSA6IDgwODAvdjEvTUQiIHQsCiAgICAgIAkJCSAJIAkJCSAJCXsgfSwKICAgICAgICAJCQkgCSAJCSAJCXs=gfSwKICAgICAgICAJCQkgCSAJCSAJCXs=gfSw=
+# MCP Server Research — Remote Machine Access Setup
+
+Goal: Give an OpenHuman agent SSH/terminal access to every machine on a tailnet via MCP servers.
+
+## Architecture
+
+```
+[OpenHuman] → config.toml → [[mcp_client.servers]]
+       │
+       ├── "kali"     → ssh-mcp → Kali Linux (tailscale IP)
+       ├── "windows"  → ssh-mcp → Windows box (tailscale IP)
+       └── ...any more machines
+```
+
+## Step 1 — Install Tailscale on every machine
+
+```bash
+# Linux (Kali, etc.):
+curl -fsSL https://tailscale.com/install.sh | sh
+sudo tailscale up
+
+# Windows: download from https://tailscale.com/download
+```
+
+Verify: `tailscale status` shows all machines with `100.x.y.z` IPs.
+
+## Step 2 — Set up SSH key auth from the OpenHuman host to each target
+
+On the machine running OpenHuman:
+```bash
+ssh-keygen -t ed25519 -f ~/.ssh/mcp_key -N ""
+```
+
+Copy the public key to each target:
+```bash
+ssh-copy-id -i ~/.ssh/mcp_key.pub user@kali-tailscale-ip
+```
+
+Verify passwordless login works:
+```bash
+ssh -i ~/.ssh/mcp_key user@100.x.y.z "hostname"
+```
+
+## Step 3 — Install ssh-mcp on the OpenHuman host
+
+The MCP server runs on the OpenHuman host, not on the targets. It uses SSH to reach each target.
+
+```bash
+npm install -g ssh-mcp
+# or just use npx (no install needed)
+```
+
+## Step 4 — Configure OpenHuman's config.toml
+
+Edit `~/.openhuman/config.toml` and add:
+
+```toml
+[mcp_client]
+enabled = true
+
+# --- Kali Linux ---
+[[mcp_client.servers]]
+name = "kali"
+description = "Kali Linux pentesting machine"
+command = "npx"
+args = ["-y", "ssh-mcp", "--", "--host=100.x.y.z", "--user=youruser", "--key=/home/you/.ssh/mcp_key"]
+enabled = true
+timeout_secs = 120
+
+# --- Windows dev box ---
+[[mcp_client.servers]]
+name = "windows"
+description = "Windows development machine"
+command = "npx"
+args = ["-y", "ssh-mcp", "--", "--host=100.x.y.z", "--user=youruser", "--key=/home/you/.ssh/mcp_key"]
+enabled = true
+timeout_secs = 120
+```
+
+Replace `100.x.y.z` with each machine's actual Tailscale IP. Replace `youruser` with the SSH username.
+
+For Windows targets, you may need to install OpenSSH Server on Windows and enable it.
+
+## Step 5 — Restart OpenHuman
+
+Once the config is saved, restart OpenHuman.
+
+## Verification
+
+After restart:
+- `mcp_list_servers` → should show `["kali", "windows"]`
+- `mcp_list_tools(server="kali")` → should show `exec` and `sudo-exec`
+- `mcp_call_tool(server="kali", tool="exec", args={"command": "whoami"})` → should return the remote username
+
+## Optional: Tailscale Aperture (centralized gateway)
+
+If you want a single endpoint instead of per-machine config, set up Aperture on one machine:
+
+```json
+{
+  "mcp": {
+    "servers": {
+      "kali": { "url": "http://kali-machine.tail-scale.ts.net:8080/v1/mcp" },
+      "windows": { "url": "http://win-dev.tail-scale.ts.net:8080/v1/mcp" }
+    }
+  }
+}
+```
+
+Then in config.toml, just one server pointing at the Aperture host.
+
+## ssh-mcp CLI Reference
+
+| Flag | Required | Description |
+|------|----------|-------------|
+| `--host` | Yes | Target hostname/IP |
+| `--user` | Yes | SSH username |
+| `--port` | No | SSH port (default 22) |
+| `--password` | No | SSH password (use key instead if possible) |
+| `--key` | No | Path to SSH private key |
+| `--sudoPassword` | No | Password for sudo |
+| `--timeout` | No | Command timeout in ms (default 60000) |
+
+## OpenHuman MCP Config Schema Reference
+
+```toml
+[mcp_client]
+enabled = true
+
+[[mcp_client.servers]]
+name         = "server-slug"
+endpoint     = "https://example.com/v1/mcp"   # HTTP transport
+command      = "npx"                           # stdio transport (used if non-empty)
+args         = ["-y", "ssh-mcp", "--", "--host=..."]
+env          = { KEY = "val" }
+cwd          = "/path/to/dir"
+description  = "Optional description"
+enabled      = true
+allowed_tools    = []
+disallowed_tools = []
+timeout_secs     = 30
+
+# Auth options:
+auth = { kind = "bearer_token", token = "sk-..." }
+auth = { kind = "basic", username = "u", password = "p" }
+auth = { kind = "header", name = "X-Key", value = "v" }
+auth = { kind = "query_param", name = "api_key", value = "v" }
+```
+
+## Sources
+
+- [tufantunc/ssh-mcp](https://github.com/tufantunc/ssh-mcp)
+- [OpenHuman MCP Registry docs](https://tinyhumans.gitbook.io/openhuman/developing/architecture/mcp-registry)
+- [Tailscale Aperture docs](https://tailscale.com/docs/aperture/mcp-server)
